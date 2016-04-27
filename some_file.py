@@ -10,3 +10,7 @@ def feature_b():
 test3 = feature_b
 
 some_new_var_that_i_want = 'this is good'
+
+git_reset = True
+
+foo = 'Oh, I should have added something else to that last commit, this!'
