@@ -9,3 +9,4 @@ def feature_b():
 
 test3 = feature_b
 
+some_new_var_that_i_want = 'this is good'
